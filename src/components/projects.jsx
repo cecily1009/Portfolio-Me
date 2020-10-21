@@ -66,7 +66,7 @@ export default class Projects extends Component {
                           </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
@@ -95,7 +95,7 @@ export default class Projects extends Component {
                       </div>
                     </div>
                   </article>
-                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
