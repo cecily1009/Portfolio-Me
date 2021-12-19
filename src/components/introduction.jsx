@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 style={{color: "#FA8072"}}>Hi! <br />I'm Irene</h1>
-                          <p ><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1M3JyMDw95v1vipTaIoGeszywuOblziAFQMNoWqJsMuE/edit?usp=sharing" target="_blank" rel="noopener noreferrer" style={{fontWeight:'bold'}}>View My Resume<i className="icon-download4" /></a></p>
+                          <p ><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1BpFNsXLGfYG71pwECj1Deo_4oTFaL0DW2SfIwKWb62E/edit?usp=sharing" target="_blank" rel="noopener noreferrer" style={{fontWeight:'bold'}}>View My Resume<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
